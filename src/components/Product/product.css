@@ -1,0 +1,89 @@
+
+form,.sigbtn{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+.top .btns button:hover{
+    background-color: none !important;
+}
+
+#err{
+    display: none;
+}
+
+#errr,#erro{
+    visibility: hidden;
+}
+
+.welcome{
+    font-size: larger;
+}
+
+.buttons{
+    display: inline;
+}
+
+.coform{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+button.subtn{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+.mainview{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+#suc{
+    display: none;
+}
+
+.tab{
+    color: black !important;
+}
+
+.tablist{
+    max-width: 900px !important;
+    margin-top: 40px !important;
+}
+
+.addbtn{
+    width: 100% !important;
+}
+.head{
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+}
+.view {
+    border: none;
+    background: none;
+}
+.hng{
+    font-weight: 700 !important;
+}
+.unit{
+    width: 100% !important;
+}
+body{
+    background-color: rgb(241, 234, 234) ;  
+}
+.com{
+    color: white;
+}
+.items{
+    color: rgb(211, 206, 206) !important;
+}
+.items:hover{
+    text-decoration: none !important;
+}
+.tablist, thead tr,th,td{
+    border: 2px solid black !important;
+    border-collapse: collapse !important;
+    border-radius: 5px !important;
+}
+.side{
+    width: 100% !important;
+}
+.lbut{
+    max-width: 100px;
+    margin: auto !important;
+    margin-top: 20px !important;
+}

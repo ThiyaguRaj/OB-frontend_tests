@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test nav Component test Header 1`] = `
+<Fragment>
+  <div
+    className="con card card-body mt-0 bg-light"
+  >
+    <div
+      className="text-dark thd text-center mb-1"
+    >
+      <h1
+        className="head text-muted"
+      >
+        Lead to Revenue Redefined
+      </h1>
+      <hr />
+      <WithStyles(ForwardRef(Alert))
+        className="text-center"
+        severity="warning"
+      >
+        An intelligent end-to-end subscription management and billing solution in ONE platform
+      </WithStyles(ForwardRef(Alert))>
+    </div>
+  </div>
+  <div
+    className="con card card-body mt-2 bg-light"
+  >
+    <div
+      className="text-dark thd text-center mb-1"
+    >
+      <WithStyles(ForwardRef(Alert))
+        className="text-center  bg-dark text-success"
+      >
+        What we do ?
+      </WithStyles(ForwardRef(Alert))>
+      <p
+        className="text-left"
+      >
+        <small>
+           In recent years, we have seen a significant shift where customers are increasingly wanting product experiences that are more optimized, instantaneous, flexible and streamlined.
+        </small>
+      </p>
+    </div>
+  </div>
+</Fragment>
+`;
